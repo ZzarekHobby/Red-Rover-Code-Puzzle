@@ -19,5 +19,3 @@ given thats the expected behavior for string.split methods, this made for easier
 I did not use AI, but i did use Google and StackOverflow for the following (as I would on the job)
 
 - The Regex for finding parenthesis
-- Some of the specific syntax for the CLI library in the console.
-- 
